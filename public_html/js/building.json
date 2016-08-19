@@ -1,0 +1,13 @@
+[
+    {"name": "警衛室",
+    "location": { "x":1 , "y":0 , "z":1},
+    "length" : 1,
+    "width" : 1,
+    "height" : 1},
+
+    {"name": "警衛室",
+    "location": { "x":0 , "y":0 , "z":0},
+    "length" : 1,
+    "width" : 1,
+    "height" : 2}
+]
